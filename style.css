@@ -4,3 +4,9 @@
     background-size: cover;
 
 }
+
+.selected-tickets {
+    padding: 12px;
+    display: flex;
+    justify-content: space-around;
+}
